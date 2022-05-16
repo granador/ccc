@@ -1,8 +1,9 @@
 #include <cstdio>
+#include <cstdlib>
 
 int absolute_value(int x) {
   // Your code here
-  return 0;
+  return abs(x);
 }
 
 int main() {
